@@ -8,7 +8,7 @@ The application includes robust input checks and provides feedback for errors. I
 
 ### How to Use
 
-1.  **Upload** your CSV or Excel file to the Advana [External Data Load (EDL)](https://edl.advana.data.mil/) site under the `Builder Data` location.
+1.  **Upload** your CSV or Excel file to the Advana External Data Load (EDL) site under the `Builder Data` location.
     * Only `.xlsx` (Excel) or `.csv` files are supported.
 
 2.  **Wait** until `COMPLETED` appears in the `Status` field on the Advana EDL site. This may take a while. You may need to refresh the page to see the status update.
